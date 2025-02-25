@@ -34,7 +34,6 @@ const Header = () => {
                     <h1 className='text-md text-[#f5f5f5] font-semibold'>Ryansyah Putra</h1>
                     <p className='text-xs text-[#ababab] font-medium'>Admin</p>
                 </div>
-
             </div>
 
         </div>
