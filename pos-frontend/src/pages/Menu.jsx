@@ -33,7 +33,6 @@ const Menu = () => {
           </div>
         </div>
         <MenuContainer />
-
       </div>
 
       {/* Right Div */}
